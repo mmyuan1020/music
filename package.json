@@ -1,0 +1,14 @@
+{
+  "main": "http://nswbmw.github.io/maitian/diantai.html",
+  "name": "麦田电台",
+  "description": "node-webkit package.json",
+  "version": "1.0.0",
+  "keywords": [ "纯音乐", "轻音乐" , "电台"],
+  "window": {
+    "title": "麦田电台",
+    "toolbar": false,
+    "resizable": false,
+    "width": 580,
+    "height": 300
+  }
+}

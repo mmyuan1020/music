@@ -1,2 +1,1 @@
-# music
-音乐播放器
+[《麦田》](http://nswbmw.github.io/maitian/) —— 个人纯音乐收藏
